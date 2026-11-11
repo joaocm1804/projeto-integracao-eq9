@@ -1,0 +1,9 @@
+# Bases brutas do SINAN (grandes demais para o GitHub, limite 100 MB/arquivo)
+*.csv
+
+# Sistema / Python
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
