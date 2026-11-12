@@ -49,7 +49,7 @@ Os CSVs não estão no repositório porque `CHIKBR24.csv` (~120 MB) excede o lim
 
 1. Baixe os arquivos de 2023, 2024 e 2025 no [portal de dados abertos](https://dadosabertos.saude.gov.br/dataset/arboviroses-febre-de-chikungunya).
 2. **Execução local:** coloque-os em `data/`.
-3. **Google Colab:** coloque-os na pasta `projeto-integracao-eq9/data` do seu Google Drive.
+3. **Google Colab:** coloque-os na pasta `projeto_integracao/dados` do seu Google Drive.
 
 ## Como executar
 
