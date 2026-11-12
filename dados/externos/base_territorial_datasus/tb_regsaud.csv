@@ -1,0 +1,467 @@
+CO_REGSAUD,CO_STATUS,DS_NOME,DS_NOMEPAD,DS_ABREV,NU_ORDEM
+11001,S,Vale do Jamari - RO,VALE DO JAMARI - RO,Vale Do Jamari - RO,S
+11002,S,Café - RO,CAFE - RO,Cafe - RO,S
+11003,S,Central - RO,CENTRAL - RO,Central - RO,S
+11004,S,Madeira-Mamoré - RO,MADEIRA-MAMORE - RO,Madeira-Mamore - RO,S
+11005,S,Zona da Mata - RO,ZONA DA MATA - RO,Zona Da Mata - RO,S
+11006,S,Cone Sul - RO,CONE SUL - RO,Cone Sul - RO,S
+11007,S,Vale do Guaporé - RO,VALE DO GUAPORE - RO,Vale Do Guapore - RO,S
+12001,S,Alto Acre - AC,ALTO ACRE - AC,Alto Acre - AC,S
+12002,S,Baixo Acre e Purus - AC,BAIXO ACRE E PURUS - AC,Baixo Acre E Purus - AC,S
+12003,S,Juruá e Tarauacá/Envira - AC,JURUA E TARAUACA/ENVIRA - AC,Jurua E Tarauaca/Envira - AC,S
+13001,S,"Manaus, Entorno e Alto Rio Negro - AM","MANAUS, ENTORNO E ALTO RIO NEGRO - AM","Manaus, Entorno E Alto Rio Negro - AM",S
+13002,S,Rio Negro e Solimões - AM,RIO NEGRO E SOLIMOES - AM,Rio Negro E Solimoes - AM,S
+13003,S,Rio Madeira - AM,RIO MADEIRA - AM,Rio Madeira - AM,S
+13004,S,Médio Amazonas - AM,MEDIO AMAZONAS - AM,Medio Amazonas - AM,S
+13005,S,Baixo Amazonas - AM,BAIXO AMAZONAS - AM,Baixo Amazonas - AM,S
+13006,S,Regional Purus - AM,REGIONAL PURUS - AM,Regional Purus - AM,S
+13007,S,Regional Juruá - AM,REGIONAL JURUA - AM,Regional Jurua - AM,S
+13008,S,Triângulo - AM,TRIANGULO - AM,Triangulo - AM,S
+13009,S,Alto Solimões - AM,ALTO SOLIMOES - AM,Alto Solimoes - AM,S
+14001,S,Centro Norte - RR,CENTRO NORTE - RR,Centro Norte - RR,S
+14002,S,Sul - RR,SUL - RR,Sul - RR,S
+15001,S,Araguaia - PA,ARAGUAIA - PA,Araguaia - PA,S
+15002,S,Baixo Amazonas - PA,BAIXO AMAZONAS - PA,Baixo Amazonas - PA,S
+15003,S,Carajás - PA,CARAJAS - PA,Carajas - PA,S
+15004,S,Lago de Tucuruí - PA,LAGO DE TUCURUI - PA,Lago De Tucurui - PA,S
+15006,S,Metropolitana I - PA,METROPOLITANA I - PA,Metropolitana I - PA,S
+15007,S,Metropolitana II - PA,METROPOLITANA II - PA,Metropolitana Ii - PA,S
+15008,S,Metropolitana III - PA,METROPOLITANA III - PA,Metropolitana Iii - PA,S
+15009,S,Rio Caetés - PA,RIO CAETES - PA,Rio Caetes - PA,S
+15010,S,Tapajós - PA,TAPAJOS - PA,Tapajos - PA,S
+15011,S,Tocantins - PA,TOCANTINS - PA,Tocantins - PA,S
+15012,S,Xingu - PA,XINGU - PA,Xingu - PA,S
+15013,S,Marajó I - PA,MARAJO I - PA,Marajo I - PA,S
+15014,S,Marajó II - PA,MARAJO II - PA,Marajo Ii - PA,S
+16001,S,Área Central - AP,AREA CENTRAL - AP,Area Central - AP,S
+16002,S,Área Norte - AP,AREA NORTE - AP,Area Norte - AP,S
+16003,S,Área Sudoeste - AP,AREA SUDOESTE - AP,Area Sudoeste - AP,S
+17001,S,Médio Norte Araguaia - TO,MEDIO NORTE ARAGUAIA - TO,Medio Norte Araguaia - TO,S
+17002,S,Bico do Papagaio - TO,BICO DO PAPAGAIO - TO,Bico Do Papagaio - TO,S
+17003,S,Sudeste - TO,SUDESTE - TO,Sudeste - TO,S
+17004,S,Cerrado Tocantins Araguaia - TO,CERRADO TOCANTINS ARAGUAIA - TO,Cerrado Tocantins Araguaia - TO,S
+17005,S,Ilha do Bananal - TO,ILHA DO BANANAL - TO,Ilha Do Bananal - TO,S
+17006,S,Capim Dourado - TO,CAPIM DOURADO - TO,Capim Dourado - TO,S
+17007,S,Cantão - TO,CANTAO - TO,Cantao - TO,S
+17008,S,Amor Perfeito - TO,AMOR PERFEITO - TO,Amor Perfeito - TO,S
+21001,S,Açailândia - MA,ACAILANDIA - MA,Acailandia - MA,S
+21002,S,Bacabal - MA,BACABAL - MA,Bacabal - MA,S
+21003,S,Balsas - MA,BALSAS - MA,Balsas - MA,S
+21004,S,Barra do Corda - MA,BARRA DO CORDA - MA,Barra Do Corda - MA,S
+21005,S,Caxias - MA,CAXIAS - MA,Caxias - MA,S
+21006,S,Chapadinha - MA,CHAPADINHA - MA,Chapadinha - MA,S
+21007,S,Codó - MA,CODO - MA,Codo - MA,S
+21008,S,Imperatriz - MA,IMPERATRIZ - MA,Imperatriz - MA,S
+21009,S,Itapecuru Mirim - MA,ITAPECURU MIRIM - MA,Itapecuru Mirim - MA,S
+21010,S,Pedreiras - MA,PEDREIRAS - MA,Pedreiras - MA,S
+21011,S,Pinheiro - MA,PINHEIRO - MA,Pinheiro - MA,S
+21012,S,Presidente Dutra - MA,PRESIDENTE DUTRA - MA,Presidente Dutra - MA,S
+21013,S,Rosário - MA,ROSARIO - MA,Rosario - MA,S
+21014,S,Santa Inês - MA,SANTA INES - MA,Santa Ines - MA,S
+21015,S,São João dos Patos - MA,SAO JOAO DOS PATOS - MA,Sao Joao Dos Patos - MA,S
+21016,S,São Luís - MA,SAO LUIS - MA,Sao Luis - MA,S
+21017,S,Timon - MA,TIMON - MA,Timon - MA,S
+21018,S,Viana - MA,VIANA - MA,Viana - MA,S
+21019,S,Zé Doca - MA,ZE DOCA - MA,Ze Doca - MA,S
+22001,S,Carnaubais - PI,CARNAUBAIS - PI,Carnaubais - PI,S
+22002,S,Chapada das Mangabeiras - PI,CHAPADA DAS MANGABEIRAS - PI,Chapada Das Mangabeiras - PI,S
+22003,S,Cocais - PI,COCAIS - PI,Cocais - PI,S
+22004,S,Entre Rios - PI,ENTRE RIOS - PI,Entre Rios - PI,S
+22005,S,Planície Litorânea - PI,PLANICIE LITORANEA - PI,Planicie Litoranea - PI,S
+22006,S,Serra da Capivara - PI,SERRA DA CAPIVARA - PI,Serra Da Capivara - PI,S
+22007,S,Tabuleiros do Alto Parnaíba - PI,TABULEIROS DO ALTO PARNAIBA - PI,Tabuleiros Do Alto Parnaiba - PI,S
+22008,S,Vale do Canindé - PI,VALE DO CANINDE - PI,Vale Do Caninde - PI,S
+22009,S,Vale do Rio Guaribas - PI,VALE DO RIO GUARIBAS - PI,Vale Do Rio Guaribas - PI,S
+22010,S,Vale do Sambito - PI,VALE DO SAMBITO - PI,Vale Do Sambito - PI,S
+22011,S,Vale dos Rios Piauí e Itaueiras - PI,VALE DOS RIOS PIAUI E ITAUEIRAS - PI,Vale Dos Rios Piaui E Itaueiras - PI,S
+22012,S,Chapada Vale do Rio Itaim - PI,CHAPADA VALE DO RIO ITAIM - PI,Chapada Vale Do Rio Itaim - PI,S
+23001,S,1ª RS Fortaleza - CE,1ª RS FORTALEZA - CE,1ª Rs Fortaleza - CE,S
+23002,S,2ª Região Caucaia - CE,2ª REGIAO CAUCAIA - CE,2ª Regiao Caucaia - CE,S
+23003,S,3ª Região Maracanaú - CE,3ª REGIAO MARACANAU - CE,3ª Regiao Maracanau - CE,S
+23004,S,4ª Região Baturité - CE,4ª REGIAO BATURITE - CE,4ª Regiao Baturite - CE,S
+23005,S,5ª Região Canindé - CE,5ª REGIAO CANINDE - CE,5ª Regiao Caninde - CE,S
+23006,S,6ª  Região Itapipoca - CE,6ª REGIAO ITAPIPOCA - CE,6ª Regiao Itapipoca - CE,S
+23007,S,7ª  Região Aracati - CE,7ª REGIAO ARACATI - CE,7ª Regiao Aracati - CE,S
+23008,S,8ª Região Quixadá - CE,8ª REGIAO QUIXADA - CE,8ª Regiao Quixada - CE,S
+23009,S,9ª Região Russas - CE,9ª REGIAO RUSSAS - CE,9ª Regiao Russas - CE,S
+23010,S,10ª  Região Limoeiro do Norte - CE,10ª REGIAO LIMOEIRO DO NORTE - CE,10ª Regiao Limoeiro Do Norte - CE,S
+23011,S,5ª  RS Sobral - CE,5ª RS SOBRAL - CE,5ª Rs Sobral - CE,S
+23012,S,12ª Região Acaraú - CE,12ª REGIAO ACARAU - CE,12ª Regiao Acarau - CE,S
+23013,S,13ª Região Tianguá - CE,13ª REGIAO TIANGUA - CE,13ª Regiao Tiangua - CE,S
+23014,S,14ª  Região Tauá - CE,14ª REGIAO TAUA - CE,14ª Regiao Taua - CE,S
+23015,S,15ª Região Crateús - CE,15ª REGIAO CRATEUS - CE,15ª Regiao Crateus - CE,S
+23016,S,16ª Região Camocim - CE,16ª REGIAO CAMOCIM - CE,16ª Regiao Camocim - CE,S
+23017,S,17ª Região Icó - CE,17ª REGIAO ICO - CE,17ª Regiao Ico - CE,S
+23018,S,18ª Região Iguatú - CE,18ª REGIAO IGUATU - CE,18ª Regiao Iguatu - CE,S
+23019,S,19ª Região Brejo Santo - CE,19ª REGIAO BREJO SANTO - CE,19ª Regiao Brejo Santo - CE,S
+23020,S,20ª Região Crato - CE,20ª REGIAO CRATO - CE,20ª Regiao Crato - CE,S
+23021,S,21ª Região Juazeiro do Norte - CE,21ª REGIAO JUAZEIRO DO NORTE - CE,21ª Regiao Juazeiro Do Norte - CE,S
+23022,S,22ª  Região Cascavel - CE,22ª REGIAO CASCAVEL - CE,22ª Regiao Cascavel - CE,S
+23023,S,2ª RS Cariri - CE,2ª RS CARIRI - CE,2ª Rs Cariri - CE,S
+23024,S,3ª RS Sertão Central - CE,3ª RS SERTAO CENTRAL - CE,3ª Rs Sertao Central - CE,S
+23025,S,4ª RS Litoral Leste/Jaguaribe - CE,4ª RS LITORAL LESTE/JAGUARIBE - CE,4ª Rs Litoral Leste/Jaguaribe - CE,S
+24001,S,1ª Região de Saúde - São José de Mipibu - RN,1ª REGIAO DE SAUDE - SAO JOSE DE MIPIBU - RN,1ª Regiao De Saude - Sao Jose De Mipibu - RN,S
+24002,S,2ª Região de Saúde - Mossoró - RN,2ª REGIAO DE SAUDE - MOSSORO - RN,2ª Regiao De Saude - Mossoro - RN,S
+24003,S,3ª Região de Saúde - João Câmara - RN,3ª REGIAO DE SAUDE - JOAO CAMARA - RN,3ª Regiao De Saude - Joao Camara - RN,S
+24004,S,4ª Região de Saúde - Caicó - RN,4ª REGIAO DE SAUDE - CAICO - RN,4ª Regiao De Saude - Caico - RN,S
+24005,S,5ª Região de Saúde - Santa Cruz - RN,5ª REGIAO DE SAUDE - SANTA CRUZ - RN,5ª Regiao De Saude - Santa Cruz - RN,S
+24006,S,6ª Região de Saúde - Pau dos Ferros - RN,6ª REGIAO DE SAUDE - PAU DOS FERROS - RN,6ª Regiao De Saude - Pau Dos Ferros - RN,S
+24007,S,7ª Região de Saúde - Metropolitana - RN,7ª REGIAO DE SAUDE - METROPOLITANA - RN,7ª Regiao De Saude - Metropolitana - RN,S
+24008,S,8ª Região de Saúde - Açu - RN,8ª REGIAO DE SAUDE - ACU - RN,8ª Regiao De Saude - Acu - RN,S
+25001,S,1ª Região Mata Atlântica - PB,1ª REGIAO MATA ATLANTICA - PB,1ª Regiao Mata Atlantica - PB,S
+25002,S,2ª Região - PB,2ª REGIAO - PB,2ª Regiao - PB,S
+25003,S,3ª Região - PB,3ª REGIAO - PB,3ª Regiao - PB,S
+25004,S,4ª Região - PB,4ª REGIAO - PB,4ª Regiao - PB,S
+25005,S,5ª Região - PB,5ª REGIAO - PB,5ª Regiao - PB,S
+25006,S,6ª Região - PB,6ª REGIAO - PB,6ª Regiao - PB,S
+25007,S,7ª Região - PB,7ª REGIAO - PB,7ª Regiao - PB,S
+25008,S,8ª Região - PB,8ª REGIAO - PB,8ª Regiao - PB,S
+25009,S,9ª Região - PB,9ª REGIAO - PB,9ª Regiao - PB,S
+25010,S,10ª Região - PB,10ª REGIAO - PB,10ª Regiao - PB,S
+25011,S,11ª Região - PB,11ª REGIAO - PB,11ª Regiao - PB,S
+25012,S,12ª Região - PB,12ª REGIAO - PB,12ª Regiao - PB,S
+25013,S,13ª Região - PB,13ª REGIAO - PB,13ª Regiao - PB,S
+25014,S,14ª Região - PB,14ª REGIAO - PB,14ª Regiao - PB,S
+25015,S,15ª Região - PB,15ª REGIAO - PB,15ª Regiao - PB,S
+25016,S,16ª Região - PB,16ª REGIAO - PB,16ª Regiao - PB,S
+26001,S,X Região de Saúde - PE,X REGIÃO DE SAÚDE - PE,X Região De Saúde - PE,S
+26002,S,VI Região de Saúde - PE,VI REGIÃO DE SAÚDE - PE,Vi Região De Saúde - PE,S
+26003,S,IV Região de Saúde - PE,IV REGIÃO DE SAÚDE - PE,Iv Região De Saúde - PE,S
+26004,S,V Região de Saúde - PE,V REGIÃO DE SAÚDE - PE,V Região De Saúde - PE,S
+26005,S,XII Região de Saúde - PE,XII REGIÃO DE SAÚDE - PE,Xii Região De Saúde - PE,S
+26006,S,II Região de Saúde - PE,II REGIÃO DE SAÚDE - PE,Ii Região De Saúde - PE,S
+26007,S,IX Região de Saúde - PE,IX REGIÃO DE SAÚDE - PE,Ix Região De Saúde - PE,S
+26008,S,III Região de Saúde - PE,III REGIÃO DE SAÚDE - PE,Iii Região De Saúde - PE,S
+26009,S,VIII Região de Saúde - PE,VIII REGIÃO DE SAÚDE - PE,Viii Região De Saúde - PE,S
+26010,S,I Região de Saúde - PE,I REGIÃO DE SAÚDE - PE,I Região De Saúde - PE,S
+26011,S,VII Região de Saúde - PE,VII REGIÃO DE SAÚDE - PE,Vii Região De Saúde - PE,S
+26012,S,XI Região de Saúde - PE,XI REGIÃO DE SAÚDE - PE,Xi Região De Saúde - PE,S
+27001,S,1ª Região de Saúde - AL,1ª REGIAO DE SAUDE - AL,1ª Regiao De Saude - AL,S
+27002,S,2ª Região de Saúde - AL,2ª REGIAO DE SAUDE - AL,2ª Regiao De Saude - AL,S
+27003,S,3ª Região de Saúde - AL,3ª REGIAO DE SAUDE - AL,3ª Regiao De Saude - AL,S
+27004,S,4ª Região de Saúde - AL,4ª REGIAO DE SAUDE - AL,4ª Regiao De Saude - AL,S
+27005,S,5ª Região de Saúde - AL,5ª REGIAO DE SAUDE - AL,5ª Regiao De Saude - AL,S
+27006,S,6ª Região de Saúde - AL,6ª REGIAO DE SAUDE - AL,6ª Regiao De Saude - AL,S
+27007,S,7ª Região de Saúde - AL,7ª REGIAO DE SAUDE - AL,7ª Regiao De Saude - AL,S
+27008,S,8ª Região de Saúde - AL,8ª REGIAO DE SAUDE - AL,8ª Regiao De Saude - AL,S
+27009,S,9ª Região de Saúde - AL,9ª REGIAO DE SAUDE - AL,9ª Regiao De Saude - AL,S
+27010,S,10ª Região de Saúde - AL,10ª REGIAO DE SAUDE - AL,10ª Regiao De Saude - AL,S
+28001,S,Aracaju - SE,ARACAJU - SE,Aracaju - SE,S
+28002,S,Estância - SE,ESTANCIA - SE,Estancia - SE,S
+28003,S,Itabaiana - SE,ITABAIANA - SE,Itabaiana - SE,S
+28004,S,Lagarto - SE,LAGARTO - SE,Lagarto - SE,S
+28005,S,Nossa Senhora da Glória - SE,NOSSA SENHORA DA GLORIA - SE,Nossa Senhora Da Gloria - SE,S
+28006,S,Nossa Senhora do Socorro - SE,NOSSA SENHORA DO SOCORRO - SE,Nossa Senhora Do Socorro - SE,S
+28007,S,Propriá - SE,PROPRIA - SE,Propria - SE,S
+29001,S,Alagoinhas - BA,ALAGOINHAS - BA,Alagoinhas - BA,S
+29002,S,Barreiras - BA,BARREIRAS - BA,Barreiras - BA,S
+29003,S,Brumado - BA,BRUMADO - BA,Brumado - BA,S
+29004,S,Camaçari - BA,CAMACARI - BA,Camacari - BA,S
+29005,S,Cruz das Almas - BA,CRUZ DAS ALMAS - BA,Cruz Das Almas - BA,S
+29006,S,Feira de Santana - BA,FEIRA DE SANTANA - BA,Feira De Santana - BA,S
+29007,S,Guanambi - BA,GUANAMBI - BA,Guanambi - BA,S
+29008,S,Ibotirama - BA,IBOTIRAMA - BA,Ibotirama - BA,S
+29009,S,Ilhéus - BA,ILHEUS - BA,Ilheus - BA,S
+29010,S,Irecê - BA,IRECE - BA,Irece - BA,S
+29011,S,Itaberaba - BA,ITABERABA - BA,Itaberaba - BA,S
+29012,S,Itabuna - BA,ITABUNA - BA,Itabuna - BA,S
+29013,S,Itapetinga - BA,ITAPETINGA - BA,Itapetinga - BA,S
+29014,S,Jacobina - BA,JACOBINA - BA,Jacobina - BA,S
+29015,S,Jequié - BA,JEQUIE - BA,Jequie - BA,S
+29016,S,Juazeiro - BA,JUAZEIRO - BA,Juazeiro - BA,S
+29017,S,Paulo Afonso - BA,PAULO AFONSO - BA,Paulo Afonso - BA,S
+29018,S,Porto Seguro - BA,PORTO SEGURO - BA,Porto Seguro - BA,S
+29019,S,Ribeira do Pombal - BA,RIBEIRA DO POMBAL - BA,Ribeira Do Pombal - BA,S
+29020,S,Salvador - BA,SALVADOR - BA,Salvador - BA,S
+29021,S,Santa Maria da Vitória - BA,SANTA MARIA DA VITORIA - BA,Santa Maria Da Vitoria - BA,S
+29022,S,Santo Antônio de Jesus - BA,SANTO ANTONIO DE JESUS - BA,Santo Antonio De Jesus - BA,S
+29023,S,Seabra - BA,SEABRA - BA,Seabra - BA,S
+29024,S,Senhor do Bonfim - BA,SENHOR DO BONFIM - BA,Senhor Do Bonfim - BA,S
+29025,S,Serrinha - BA,SERRINHA - BA,Serrinha - BA,S
+29026,S,Teixeira de Freitas - BA,TEIXEIRA DE FREITAS - BA,Teixeira De Freitas - BA,S
+29027,S,Valença - BA,VALENCA - BA,Valenca - BA,S
+29028,S,Vitória da Conquista - BA,VITORIA DA CONQUISTA - BA,Vitoria Da Conquista - BA,S
+31001,S,Alfenas/Machado - MG,ALFENAS/MACHADO - MG,Alfenas/Machado - MG,S
+31002,S,Guaxupé - MG,GUAXUPE - MG,Guaxupe - MG,S
+31003,S,Itajubá - MG,ITAJUBA - MG,Itajuba - MG,S
+31004,S,Lavras - MG,LAVRAS - MG,Lavras - MG,S
+31006,S,Poços de Caldas - MG,POCOS DE CALDAS - MG,Pocos De Caldas - MG,S
+31007,S,Pouso Alegre/Santa Rita do Sapucaí - MG,POUSO ALEGRE/SANTA RITA DO SAPUCAI - MG,Pouso Alegre/Santa Rita Do Sapucai - MG,S
+31008,S,São Lourenço - MG,SAO LOURENCO - MG,Sao Lourenco - MG,S
+31009,S,São Sebastião do Paraíso - MG,SAO SEBASTIAO DO PARAISO - MG,Sao Sebastiao Do Paraiso - MG,S
+31010,S,Três Corações - MG,TRES CORACOES - MG,Tres Coracoes - MG,S
+31011,S,Três Pontas - MG,TRES PONTAS - MG,Tres Pontas - MG,S
+31012,S,Varginha  - MG,VARGINHA - MG,Varginha - MG,S
+31013,S,Barbacena - MG,BARBACENA - MG,Barbacena - MG,S
+31015,S,São João Del Rei - MG,SAO JOAO DEL REI - MG,Sao Joao Del Rei - MG,S
+31016,S,Belo Horizonte/Nova Lima/Santa Luzia   - MG,BELO HORIZONTE/NOVA LIMA/SANTA LUZIA - MG,Belo Horizonte/Nova Lima/Santa Luzia - MG,S
+31017,S,Betim - MG,BETIM - MG,Betim - MG,S
+31018,S,Contagem - MG,CONTAGEM - MG,Contagem - MG,S
+31019,S,Curvelo - MG,CURVELO - MG,Curvelo - MG,S
+31020,S,Guanhães - MG,GUANHAES - MG,Guanhaes - MG,S
+31021,S,Itabira - MG,ITABIRA - MG,Itabira - MG,S
+31022,S,Ouro Preto - MG,OURO PRETO - MG,Ouro Preto - MG,S
+31023,S,João Monlevade - MG,JOAO MONLEVADE - MG,Joao Monlevade - MG,S
+31024,S,Sete Lagoas - MG,SETE LAGOAS - MG,Sete Lagoas - MG,S
+31025,S,Vespasiano/Lagoa Santa - MG,VESPASIANO/LAGOA SANTA - MG,Vespasiano/Lagoa Santa - MG,S
+31026,S,Diamantina/Itamarandiba - MG,DIAMANTINA/ITAMARANDIBA - MG,Diamantina/Itamarandiba - MG,S
+31027,S,Turmalina/Minas Novas/Capelinha - MG,TURMALINA/MINAS NOVAS/CAPELINHA - MG,Turmalina/Minas Novas/Capelinha - MG,S
+31028,S,Bom Despacho - MG,BOM DESPACHO - MG,Bom Despacho - MG,S
+31030,S,Formiga - MG,FORMIGA - MG,Formiga - MG,S
+31031,S,Itaúna - MG,ITAUNA - MG,Itauna - MG,S
+31032,S,Pará de Minas/Nova Serrana - MG,PARA DE MINAS/NOVA SERRANA - MG,Para De Minas/Nova Serrana - MG,S
+31034,S,Caratinga - MG,CARATINGA - MG,Caratinga - MG,S
+31035,S,Coronel Fabriciano/Timóteo - MG,CORONEL FABRICIANO/TIMOTEO - MG,Coronel Fabriciano/Timoteo - MG,S
+31036,S,Governador Valadares - MG,GOVERNADOR VALADARES - MG,Governador Valadares - MG,S
+31037,S,Ipatinga - MG,IPATINGA - MG,Ipatinga - MG,S
+31038,S,Mantena/Itabirinha - MG,MANTENA/ITABIRINHA - MG,Mantena/Itabirinha - MG,S
+31040,S,Resplendor - MG,RESPLENDOR - MG,Resplendor - MG,S
+31041,S,Além Paraíba - MG,ALEM PARAIBA - MG,Alem Paraiba - MG,S
+31042,S,Carangola - MG,CARANGOLA - MG,Carangola - MG,S
+31044,S,Leopoldina/Cataguases - MG,LEOPOLDINA/CATAGUASES - MG,Leopoldina/Cataguases - MG,S
+31045,S,Muriaé - MG,MURIAE - MG,Muriae - MG,S
+31046,S,Santos Dumont - MG,SANTOS DUMONT - MG,Santos Dumont - MG,S
+31047,S,São João Nepomuceno - MG,SAO JOAO NEPOMUCENO - MG,Sao Joao Nepomuceno - MG,S
+31048,S,Ubá - MG,UBA - MG,Uba - MG,S
+31050,S,Coração de Jesus - MG,CORACAO DE JESUS - MG,Coracao De Jesus - MG,S
+31051,S,Francisco Sá - MG,FRANCISCO SA - MG,Francisco Sa - MG,S
+31052,S,Janaúba/Monte Azul - MG,JANAUBA/MONTE AZUL - MG,Janauba/Monte Azul - MG,S
+31053,S,Januária - MG,JANUARIA - MG,Januaria - MG,S
+31055,S,Pirapora - MG,PIRAPORA - MG,Pirapora - MG,S
+31057,S,Patos de Minas - MG,PATOS DE MINAS - MG,Patos De Minas - MG,S
+31058,S,Unaí/Paracatu - MG,UNAI/PARACATU - MG,Unai/Paracatu - MG,S
+31059,S,Manhuaçu - MG,MANHUACU - MG,Manhuacu - MG,S
+31060,S,Ponte Nova - MG,PONTE NOVA - MG,Ponte Nova - MG,S
+31061,S,Viçosa - MG,VICOSA - MG,Vicosa - MG,S
+31062,S,Águas Formosas - MG,AGUAS FORMOSAS - MG,Aguas Formosas - MG,S
+31064,S,Araçuaí - MG,ARACUAI - MG,Aracuai - MG,S
+31065,S,Itaobim - MG,ITAOBIM - MG,Itaobim - MG,S
+31066,S,Nanuque - MG,NANUQUE - MG,Nanuque - MG,S
+31067,S,Padre Paraíso - MG,PADRE PARAISO - MG,Padre Paraiso - MG,S
+31068,S,Pedra azul - MG,PEDRA AZUL - MG,Pedra Azul - MG,S
+31070,S,Araxá - MG,ARAXA - MG,Araxa - MG,S
+31071,S,Frutal/Iturama - MG,FRUTAL / ITURAMA - MG,Frutal / Iturama - MG,S
+31072,S,Uberaba - MG,UBERABA - MG,Uberaba - MG,S
+31073,S,Ituiutaba - MG,ITUIUTABA - MG,Ituiutaba - MG,S
+31074,S,Patrocínio/Monte Carmelo - MG,PATROCINIO/MONTE CARMELO - MG,Patrocinio/Monte Carmelo - MG,S
+31075,S,Uberlândia/Araguari - MG,UBERLANDIA/ARAGUARI - MG,Uberlandia/Araguari - MG,S
+31076,S,Manga - MG,MANGA - MG,Manga - MG,S
+31077,S,João Pinheiro - MG,JOAO PINHEIRO - MG,Joao Pinheiro - MG,S
+31078,S,Congonhas - MG,CONGONHAS - MG,Congonhas - MG,S
+31079,S,Conselheiro Lafaiete - MG,CONSELHEIRO LAFAIETE - MG,Conselheiro Lafaiete - MG,S
+31082,S,São Gotardo - MG,SAO GOTARDO - MG,Sao Gotardo - MG,S
+31083,S,Bocaiúva - MG,BOCAIUVA - MG,Bocaiuva - MG,S
+31084,S,Montes Claros  - MG,MONTES CLAROS - MG,Montes Claros - MG,S
+31085,S,Taiobeiras - MG,TAIOBEIRAS - MG,Taiobeiras - MG,S
+31086,S,Divinópolis - MG,DIVINOPOLIS - MG,Divinopolis - MG,S
+31087,S,Lagoa da Prata/Santo Antônio do Monte - MG,LAGOA DA PRATA/SANTO ANTONIO DO MONTE - MG,Lagoa Da Prata/Santo Antonio Do Monte - MG,S
+31088,S,Oliveira/Santo Antônio do Amparo - MG,OLIVEIRA/SANTO ANTONIO DO AMPARO - MG,Oliveira/Santo Antonio Do Amparo - MG,S
+31089,S,Campo Belo - MG,CAMPO BELO - MG,Campo Belo - MG,S
+31090,S,Lima Duarte - MG,LIMA DUARTE - MG,Lima Duarte - MG,S
+31091,S,Cássia - MG,CASSIA - MG,Cassia - MG,S
+31092,S,Passos - MG,PASSOS - MG,Passos - MG,S
+31093,S,Piumhi - MG,PIUMHI - MG,Piumhi - MG,S
+31094,S,Almenara/Jacinto - MG,ALMENARA/JACINTO - MG,Almenara/Jacinto - MG,S
+31095,S,Serro - MG,SERRO - MG,Serro - MG,S
+31096,S,Itambacuri - MG,ITAMBACURI - MG,Itambacuri - MG,S
+31097,S,Juiz de Fora - MG,JUIZ DE FORA - MG,Juiz De Fora - MG,S
+31098,S,Salinas - MG,SALINAS - MG,Salinas - MG,S
+31099,S,Teófilo Otoni/Malacacheta - MG,TEOFILO OTONI/MALACACHETA - MG,Teofilo Otoni/Malacacheta - MG,S
+31100,S,São Francisco - MG,SAO FRANCISCO - MG,Sao Francisco - MG,S
+31101,S,Brasília de Minas - MG,BRASILIA DE MINAS - MG,Brasilia De Minas - MG,S
+31102,S,Peçanha/São João Evangelista/Santa Maria do Suaçuí - MG,PECANHA/SAO JOAO EVANGELISTA/SANTA MARIA DO SUACUI - MG,Pecanha/Sao Joao Evangelista/Santa Maria Do Suacui - MG,S
+32001,S,Central - ES,CENTRAL - ES,Central - ES,S
+32002,S,Metropolitana - ES,METROPOLITANA - ES,Metropolitana - ES,S
+32003,S,Norte - ES,NORTE - ES,Norte - ES,S
+32004,S,Sul - ES,SUL - ES,Sul - ES,S
+33001,S,Baia da Ilha Grande - RJ,BAIA DA ILHA GRANDE - RJ,Baia Da Ilha Grande - RJ,S
+33002,S,Baixada Litorânea - RJ,BAIXADA LITORANEA - RJ,Baixada Litoranea - RJ,S
+33003,S,Centro-Sul - RJ,CENTRO-SUL - RJ,Centro-Sul - RJ,S
+33004,S,Médio Paraíba - RJ,MEDIO PARAIBA - RJ,Medio Paraiba - RJ,S
+33005,S,Metropolitana I - RJ,METROPOLITANA I - RJ,Metropolitana I - RJ,S
+33006,S,Metropolitana II - RJ,METROPOLITANA II - RJ,Metropolitana Ii - RJ,S
+33007,S,Noroeste - RJ,NOROESTE - RJ,Noroeste - RJ,S
+33008,S,Norte - RJ,NORTE - RJ,Norte - RJ,S
+33009,S,Serrana - RJ,SERRANA - RJ,Serrana - RJ,S
+35011,S,Alto do Tietê - SP,ALTO DO TIETE - SP,Alto Do Tiete - SP,S
+35012,S,Franco da Rocha - SP,FRANCO DA ROCHA - SP,Franco Da Rocha - SP,S
+35013,S,Mananciais - SP,MANANCIAIS - SP,Mananciais - SP,S
+35014,S,Rota dos Bandeirantes - SP,ROTA DOS BANDEIRANTES - SP,Rota Dos Bandeirantes - SP,S
+35015,S,Grande ABC - SP,GRANDE ABC - SP,Grande Abc - SP,S
+35016,S,São Paulo - SP,SAO PAULO - SP,Sao Paulo - SP,S
+35021,S,Central do DRS II - SP,CENTRAL DO DRS II - SP,Central Do Drs Ii - SP,S
+35022,S,Lagos do DRS II - SP,LAGOS DO DRS II - SP,Lagos Do Drs Ii - SP,S
+35023,S,Consórcios do DRS II - SP,CONSORCIOS DO DRS II - SP,Consorcios Do Drs Ii - SP,S
+35031,S,Central do DRS III - SP,CENTRAL DO DRS III - SP,Central Do Drs Iii - SP,S
+35032,S,Coração do DRS III - SP,CORACAO DO DRS III - SP,Coracao Do Drs Iii - SP,S
+35033,S,Noroeste do DRS III - SP,NOROESTE DO DRS III - SP,Noroeste Do Drs Iii - SP,S
+35041,S,Baixada Santista - SP,BAIXADA SANTISTA - SP,Baixada Santista - SP,S
+35051,S,Norte - Barretos - SP,NORTE - BARRETOS - SP,Norte - Barretos - SP,S
+35052,S,Sul - Barretos - SP,SUL - BARRETOS - SP,Sul - Barretos - SP,S
+35061,S,Vale do Jurumirim - SP,VALE DO JURUMIRIM - SP,Vale Do Jurumirim - SP,S
+35062,S,Bauru - SP,BAURU - SP,Bauru - SP,S
+35063,S,Polo Cuesta - SP,POLO CUESTA - SP,Polo Cuesta - SP,S
+35064,S,Jaú - SP,JAU - SP,Jau - SP,S
+35065,S,Lins - SP,LINS - SP,Lins - SP,S
+35071,S,Bragança - SP,BRAGANCA - SP,Braganca - SP,S
+35072,S,Região Metropolitana de Campinas - SP,REGIAO METROPOLITANA DE CAMPINAS - SP,Regiao Metropolitana De Campinas - SP,S
+35073,S,Jundiaí - SP,JUNDIAI - SP,Jundiai - SP,S
+35074,S,Circuito das Águas - SP,CIRCUITO DAS AGUAS - SP,Circuito Das Aguas - SP,S
+35081,S,Três Colinas - SP,TRES COLINAS - SP,Tres Colinas - SP,S
+35082,S,Alta Anhanguera - SP,ALTA ANHANGUERA - SP,Alta Anhanguera - SP,S
+35083,S,Alta Mogiana - SP,ALTA MOGIANA - SP,Alta Mogiana - SP,S
+35091,S,Adamantina - SP,ADAMANTINA - SP,Adamantina - SP,S
+35092,S,Assis - SP,ASSIS - SP,Assis - SP,S
+35093,S,Marília - SP,MARILIA - SP,Marilia - SP,S
+35094,S,Ourinhos - SP,OURINHOS - SP,Ourinhos - SP,S
+35095,S,Tupã - SP,TUPA - SP,Tupa - SP,S
+35101,S,Araras - SP,ARARAS - SP,Araras - SP,S
+35102,S,Limeira - SP,LIMEIRA - SP,Limeira - SP,S
+35103,S,Piracicaba - SP,PIRACICABA - SP,Piracicaba - SP,S
+35104,S,Rio Claro - SP,RIO CLARO - SP,Rio Claro - SP,S
+35111,S,Alta Paulista - SP,ALTA PAULISTA - SP,Alta Paulista - SP,S
+35112,S,Alta Sorocabana - SP,ALTA SOROCABANA - SP,Alta Sorocabana - SP,S
+35113,S,Alto Capivari - SP,ALTO CAPIVARI - SP,Alto Capivari - SP,S
+35114,S,Extremo Oeste Paulista - SP,EXTREMO OESTE PAULISTA - SP,Extremo Oeste Paulista - SP,S
+35115,S,Pontal do Paranapanema - SP,PONTAL DO PARANAPANEMA - SP,Pontal Do Paranapanema - SP,S
+35121,S,Vale do Ribeira - SP,VALE DO RIBEIRA - SP,Vale Do Ribeira - SP,S
+35131,S,Horizonte Verde - SP,HORIZONTE VERDE - SP,Horizonte Verde - SP,S
+35132,S,Aquífero Guarani - SP,AQUIFERO GUARANI - SP,Aquifero Guarani - SP,S
+35133,S,Vale das Cachoeiras - SP,VALE DAS CACHOEIRAS - SP,Vale Das Cachoeiras - SP,S
+35141,S,Baixa Mogiana - SP,BAIXA MOGIANA - SP,Baixa Mogiana - SP,S
+35142,S,Mantiqueira - SP,MANTIQUEIRA - SP,Mantiqueira - SP,S
+35143,S,Rio Pardo - SP,RIO PARDO - SP,Rio Pardo - SP,S
+35151,S,Catanduva - SP,CATANDUVA - SP,Catanduva - SP,S
+35152,S,Santa Fé do Sul - SP,SANTA FE DO SUL - SP,Santa Fe Do Sul - SP,S
+35153,S,Jales - SP,JALES - SP,Jales - SP,S
+35154,S,Fernandópolis - SP,FERNANDOPOLIS - SP,Fernandopolis - SP,S
+35155,S,São José do Rio Preto - SP,SAO JOSE DO RIO PRETO - SP,Sao Jose Do Rio Preto - SP,S
+35156,S,José Bonifácio - SP,JOSE BONIFACIO - SP,Jose Bonifacio - SP,S
+35157,S,Votuporanga - SP,VOTUPORANGA - SP,Votuporanga - SP,S
+35161,S,Itapetininga - SP,ITAPETININGA - SP,Itapetininga - SP,S
+35162,S,Itapeva - SP,ITAPEVA - SP,Itapeva - SP,S
+35163,S,Sorocaba - SP,SOROCABA - SP,Sorocaba - SP,S
+35171,S,Alto Vale do Paraíba - SP,ALTO VALE DO PARAIBA - SP,Alto Vale Do Paraiba - SP,S
+35172,S,Circuito da Fé e Vale Histórico - SP,CIRCUITO DA FE E VALE HISTORICO - SP,Circuito Da Fe E Vale Historico - SP,S
+35173,S,Litoral Norte - SP,LITORAL NORTE - SP,Litoral Norte - SP,S
+35174,S,Vale do Paraíba/Região Serrana - SP,VALE DO PARAIBA/REGIAO SERRANA - SP,Vale Do Paraiba/Regiao Serrana - SP,S
+41001,S,1ª RS Paranaguá - PR,1ª RS PARANAGUA - PR,1ª Rs Paranagua - PR,S
+41002,S,2ª RS Metropolitana - PR,2ª RS METROPOLITANA - PR,2ª Rs Metropolitana - PR,S
+41003,S,3ª RS Ponta Grossa - PR,3ª RS PONTA GROSSA - PR,3ª Rs Ponta Grossa - PR,S
+41004,S,4ª RS Irati - PR,4ª RS IRATI - PR,4ª Rs Irati - PR,S
+41005,S,5ª RS Guarapuava - PR,5ª RS GUARAPUAVA - PR,5ª Rs Guarapuava - PR,S
+41006,S,6ª RS União da Vitória - PR,6ª RS UNIAO DA VITORIA - PR,6ª Rs Uniao Da Vitoria - PR,S
+41007,S,7ª RS Pato Branco - PR,7ª RS PATO BRANCO - PR,7ª Rs Pato Branco - PR,S
+41008,S,8ª RS Francisco Beltrão - PR,8ª RS FRANCISCO BELTRAO - PR,8ª Rs Francisco Beltrao - PR,S
+41009,S,9ª RS Foz do Iguaçu - PR,9ª RS FOZ DO IGUACU - PR,9ª Rs Foz Do Iguacu - PR,S
+41010,S,10ª RS Cascavel - PR,10ª RS CASCAVEL - PR,10ª Rs Cascavel - PR,S
+41011,S,11ª RS Campo Mourão - PR,11ª RS CAMPO MOURAO - PR,11ª Rs Campo Mourao - PR,S
+41012,S,12ª RS Umuarama - PR,12ª RS UMUARAMA - PR,12ª Rs Umuarama - PR,S
+41013,S,13ª RS Cianorte - PR,13ª RS CIANORTE - PR,13ª Rs Cianorte - PR,S
+41014,S,14ª RS Paranavaí - PR,14ª RS PARANAVAI - PR,14ª Rs Paranavai - PR,S
+41015,S,15ª RS Maringá - PR,15ª RS MARINGA - PR,15ª Rs Maringa - PR,S
+41016,S,16ª RS Apucarana - PR,16ª RS APUCARANA - PR,16ª Rs Apucarana - PR,S
+41017,S,17ª RS Londrina - PR,17ª RS LONDRINA - PR,17ª Rs Londrina - PR,S
+41018,S,18ª RS Cornélio Procópio - PR,18ª RS CORNELIO PROCOPIO - PR,18ª Rs Cornelio Procopio - PR,S
+41019,S,19ª RS Jacarezinho - PR,19ª RS JACAREZINHO - PR,19ª Rs Jacarezinho - PR,S
+41020,S,20ª RS Toledo - PR,20ª RS TOLEDO - PR,20ª Rs Toledo - PR,S
+41021,S,21ª RS Telêmaco Borba - PR,21ª RS TELEMACO BORBA - PR,21ª Rs Telemaco Borba - PR,S
+41022,S,22ª RS Ivaiporã - PR,22ª RS IVAIPORA - PR,22ª Rs Ivaipora - PR,S
+42001,S,Extremo Oeste - SC,EXTREMO OESTE - SC,Extremo Oeste - SC,S
+42002,S,Oeste - SC,OESTE - SC,Oeste - SC,S
+42003,S,Xanxerê - SC,XANXERE - SC,Xanxere - SC,S
+42004,S,Alto Vale do Itajaí - SC,ALTO VALE DO ITAJAI - SC,Alto Vale Do Itajai - SC,S
+42005,S,Foz do Rio Itajaí - SC,FOZ DO RIO ITAJAI - SC,Foz Do Rio Itajai - SC,S
+42006,S,Médio Vale do Itajaí - SC,MEDIO VALE DO ITAJAI - SC,Medio Vale Do Itajai - SC,S
+42007,S,Grande Florianópolis - SC,GRANDE FLORIANOPOLIS - SC,Grande Florianopolis - SC,S
+42008,S,Meio Oeste - SC,MEIO OESTE - SC,Meio Oeste - SC,S
+42009,S,Alto Vale do Rio do Peixe - SC,ALTO VALE DO RIO DO PEIXE - SC,Alto Vale Do Rio Do Peixe - SC,S
+42010,S,Alto Uruguai Catarinense - SC,ALTO URUGUAI CATARINENSE - SC,Alto Uruguai Catarinense - SC,S
+42011,S,Nordeste - SC,NORDESTE - SC,Nordeste - SC,S
+42012,S,Planalto Norte - SC,PLANALTO NORTE - SC,Planalto Norte - SC,S
+42013,S,Serra Catarinense - SC,SERRA CATARINENSE - SC,Serra Catarinense - SC,S
+42014,S,Extremo Sul Catarinense - SC,EXTREMO SUL CATARINENSE - SC,Extremo Sul Catarinense - SC,S
+42015,S,Carbonífera - SC,CARBONIFERA - SC,Carbonifera - SC,S
+42016,S,Laguna - SC,LAGUNA - SC,Laguna - SC,S
+42017,S,Vale do Itapocú - SC,VALE DO ITAPOCU - SC,Vale Do Itapocu - SC,S
+43001,S,Região 01 - Verdes Campos - RS,REGIAO 01 - RS,Regiao 01 - RS,S
+43002,S,Região 02 - Entre Rios - RS,REGIAO 02 - RS,Regiao 02 - RS,S
+43003,S,Região 03 - Fronteira Oeste - RS,REGIAO 03 - RS,Regiao 03 - RS,S
+43004,S,Região 04 - Belas Praias - RS,REGIAO 04 - RS,Regiao 04 - RS,S
+43005,S,Região 05 - Bons Ventos - RS,REGIAO 05 - RS,Regiao 05 - RS,S
+43006,S,Região 06 - Vale do Paranhana e Costa Serra - RS,REGIAO 06 - VALE DO PARANHANA E COSTA SERRA - RS,Regiao 06 - Vale Do Paranhana E Costa Serra - RS,S
+43007,S,Região 07 - Vale dos Sinos - RS,REGIAO 07 - RS,Regiao 07 - RS,S
+43008,S,Região 08 - Vale do Caí e Metropolitana - RS,REGIAO 08 - RS,Regiao 08 - RS,S
+43009,S,Região 09 - Carbonífera/Costa Doce - RS,REGIAO 09 - RS,Regiao 09 - RS,S
+43010,S,Região 10 - Capital e Vale do Gravataí - RS,REGIAO 10 - RS,Regiao 10 - RS,S
+43011,S,Região 11 - Sete Povos das Missões - RS,REGIAO 11 - RS,Regiao 11 - RS,S
+43012,S,Região 12 - Portal das Missões - RS,REGIAO 12 - RS,Regiao 12 - RS,S
+43013,S,Região 13 - Diversidade - RS,REGIAO 13 - RS,Regiao 13 - RS,S
+43014,S,Região 14 - Fronteira Noroeste - RS,REGIAO 14 - RS,Regiao 14 - RS,S
+43015,S,Região 15 - Caminho das Águas - RS,REGIAO 15 - CAMINHO DAS AGUAS - RS,Regiao 15 - Caminho Das Aguas - RS,S
+43016,S,Região 16 - Alto Uruguai Gaúcho - RS,REGIAO 16 - RS,Regiao 16 - RS,S
+43017,S,Região 17 - Planalto - RS,REGIAO 17 - PLANALTO - RS,Regiao 17 - Planalto - RS,S
+43018,S,Região 18 - Araucárias - RS,REGIAO 18 - RS,Regiao 18 - RS,S
+43019,S,Região 19 - Botucaraí - RS,REGIAO 19 - RS,Regiao 19 - RS,S
+43020,S,Região 20 - Rota da Produção - RS,REGIAO 20 - ROTA DA PRODUCAO - RS,Regiao 20 - Rota Da Producao - RS,S
+43021,S,Região 21 - Sul - RS,REGIAO 21 - RS,Regiao 21 - RS,S
+43022,S,Região 22 - Pampa - RS,REGIAO 22 - RS,Regiao 22 - RS,S
+43023,S,Região 23 - Caxias e Hortênsias - RS,REGIAO 23 - RS,Regiao 23 - RS,S
+43024,S,Região 24 - Campos de Cima da Serra - RS,REGIAO 24 - RS,Regiao 24 - RS,S
+43025,S,Região 25 - Vinhedos e Basalto - RS,REGIAO 25 - RS,Regiao 25 - RS,S
+43026,S,Região 26 - Uva Vale - RS,REGIAO 26 - RS,Regiao 26 - RS,S
+43027,S,Região 27 - Jacuí Centro - RS,REGIAO 27 - RS,Regiao 27 - RS,S
+43028,S,Região 28 - Vinte e Oito - RS,REGIAO 28 - RS,Regiao 28 - RS,S
+43029,S,Região 29 - Vales e Montanhas - RS,REGIAO 29 - RS,Regiao 29 - RS,S
+43030,S,Região 30 - Vale da Luz - RS,REGIAO 30 - RS,Regiao 30 - RS,S
+50009,S,Baixo Pantanal - MS,BAIXO PANTANAL - MS,Baixo Pantanal - MS,S
+50010,S,Pantanal - MS,PANTANAL - MS,Pantanal - MS,S
+50011,S,Centro - MS,CENTRO - MS,Centro - MS,S
+50012,S,Centro Sul - MS,CENTRO SUL - MS,Centro Sul - MS,S
+50013,S,Leste - MS,LESTE - MS,Leste - MS,S
+50014,S,Nordeste - MS,NORDESTE - MS,Nordeste - MS,S
+50015,S,Norte - MS,NORTE - MS,Norte - MS,S
+50016,S,Sudeste - MS,SUDESTE - MS,Sudeste - MS,S
+50017,S,Sul Fronteira - MS,SUL FRONTEIRA - MS,Sul Fronteira - MS,S
+51001,S,Alto Tapajós - MT,ALTO TAPAJOS - MT,Alto Tapajos - MT,S
+51002,S,Baixada Cuiabana - MT,BAIXADA CUIABANA - MT,Baixada Cuiabana - MT,S
+51003,S,Araguaia Xingu - MT,ARAGUAIA XINGU - MT,Araguaia Xingu - MT,S
+51004,S,Centro Norte - MT,CENTRO NORTE - MT,Centro Norte - MT,S
+51005,S,Garças Araguaia - MT,GARCAS ARAGUAIA - MT,Garcas Araguaia - MT,S
+51006,S,Médio Araguaia - MT,MEDIO ARAGUAIA - MT,Medio Araguaia - MT,S
+51007,S,Médio Norte Matogrossense - MT,MEDIO NORTE MATOGROSSENSE - MT,Medio Norte Matogrossense - MT,S
+51008,S,Noroeste Matogrossense - MT,NOROESTE MATOGROSSENSE - MT,Noroeste Matogrossense - MT,S
+51009,S,Norte Araguaia Karajá - MT,NORTE ARAGUAIA KARAJA - MT,Norte Araguaia Karaja - MT,S
+51010,S,Norte Matogrossense - MT,NORTE MATOGROSSENSE - MT,Norte Matogrossense - MT,S
+51011,S,Oeste Matogrossense - MT,OESTE MATOGROSSENSE - MT,Oeste Matogrossense - MT,S
+51012,S,Sudoeste Matogrossense - MT,SUDOESTE MATOGROSSENSE - MT,Sudoeste Matogrossense - MT,S
+51013,S,Sul Matogrossense - MT,SUL MATOGROSSENSE - MT,Sul Matogrossense - MT,S
+51014,S,Teles Pires - MT,TELES PIRES - MT,Teles Pires - MT,S
+51015,S,Vale do Peixoto - MT,VALE DO PEIXOTO - MT,Vale Do Peixoto - MT,S
+51016,S,Vale dos Arinos - MT,VALE DOS ARINOS - MT,Vale Dos Arinos - MT,S
+52001,S,Central - GO,CENTRAL - GO,Central - GO,S
+52002,S,Centro Sul - GO,CENTRO SUL - GO,Centro Sul - GO,S
+52003,S,Entorno Norte - GO,ENTORNO NORTE - GO,Entorno Norte - GO,S
+52004,S,Entorno Sul - GO,ENTORNO SUL - GO,Entorno Sul - GO,S
+52005,S,Estrada de Ferro - GO,ESTRADA DE FERRO - GO,Estrada De Ferro - GO,S
+52006,S,Nordeste I - GO,NORDESTE I - GO,Nordeste I - GO,S
+52007,S,Nordeste II - GO,NORDESTE II - GO,Nordeste Ii - GO,S
+52008,S,Norte - GO,NORTE - GO,Norte - GO,S
+52009,S,Oeste I - GO,OESTE I - GO,Oeste I - GO,S
+52010,S,Oeste II - GO,OESTE II - GO,Oeste Ii - GO,S
+52011,S,Pirineus - GO,PIRINEUS - GO,Pirineus - GO,S
+52012,S,Rio Vermelho - GO,RIO VERMELHO - GO,Rio Vermelho - GO,S
+52013,S,São Patrício I - GO,SAO PATRICIO I - GO,Sao Patricio I - GO,S
+52014,S,Serra da Mesa - GO,SERRA DA MESA - GO,Serra Da Mesa - GO,S
+52015,S,Sudoeste I - GO,SUDOESTE I - GO,Sudoeste I - GO,S
+52016,S,Sudoeste II - GO,SUDOESTE II - GO,Sudoeste Ii - GO,S
+52017,S,Sul - GO,SUL - GO,Sul - GO,S
+52018,S,São Patrício II - GO,SAO PATRICIO II - GO,Sao Patricio Ii - GO,S
+53001,S,Distrito Federal - DF,DISTRITO FEDERAL - DF,Distrito Federal - DF,S
+53002,S,Região de Saúde Oeste - DF,REGIAO DE SAUDE OESTE - DF,Regiao De Saude Oeste - DF,S
+53003,S,Região de Saúde Sudoeste - DF,REGIAO DE SAUDE SUDOESTE - DF,Regiao De Saude Sudoeste - DF,S
+53004,S,Região de Saúde Sul - DF,REGIAO DE SAUDE SUL - DF,Regiao De Saude Sul - DF,S
+53005,S,Região de Saúde Centro-Sul - DF,REGIAO DE SAUDE CENTRO-SUL - DF,Regiao De Saude Centro-Sul - DF,S
+53006,S,Região de Saúde Central - DF,REGIAO DE SAUDE CENTRAL - DF,Regiao De Saude Central - DF,S
+53007,S,Região de Saúde Norte - DF,REGIAO DE SAUDE NORTE - DF,Regiao De Saude Norte - DF,S
+53008,S,Região de Saúde Leste - DF,REGIAO DE SAUDE LESTE - DF,Regiao De Saude Leste - DF,S

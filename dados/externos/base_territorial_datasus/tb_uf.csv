@@ -1,0 +1,30 @@
+co_uf;ds_sigla;co_status;ds_nome;ds_nomepad;co_sucess;co_regiao;nu_area
+11;RO;ATIVO ;Rondonia                                 ;RONDONIA                                 ;1;34082366;1
+12;AC;ATIVO ;Acre                                     ;ACRE                                     ;1;9222577;1
+13;AM;ATIVO ;Amazonas                                 ;AMAZONAS                                 ;1;11401058;1
+14;RR;ATIVO ;Roraima                                  ;RORAIMA                                  ;1;5687064;1
+15;PA;ATIVO ;Para                                     ;PARA                                     ;1;1064918;1
+16;AP;ATIVO ;Amapa                                    ;AMAPA                                    ;1;6407123;1
+17;TO;ATIVO ;Tocantins                                ;TOCANTINS                                ;1;2218934;1
+21;MA;ATIVO ;Maranhao                                 ;MARANHAO                                 ;2;827141;1
+22;PI;ATIVO ;Piaui                                    ;PIAUI                                    ;2;1755698;1
+23;CE;ATIVO ;Ceara                                    ;CEARA                                    ;2;31314;1
+24;RN;ATIVO ;Rio Grande Do Norte                      ;RIO GRANDE DO NORTE                      ;2;170298;1
+25;PB;ATIVO ;Paraiba                                  ;PARAIBA                                  ;2;210551;1
+26;PE;ATIVO ;Pernambuco                               ;PERNAMBUCO                               ;2;217494;1
+27;AL;ATIVO ;Alagoas                                  ;ALAGOAS                                  ;2;510655;1
+28;SE;ATIVO ;Sergipe                                  ;SERGIPE                                  ;2;174053;1
+29;BA;ATIVO ;Bahia                                    ;BAHIA                                    ;2;706799;1
+31;MG;ATIVO ;Minas Gerais                             ;MINAS GERAIS                             ;3;330954;1
+32;ES;ATIVO ;Espirito Santo                           ;ESPIRITO SANTO                           ;3;93381;1
+33;RJ;ATIVO ;Rio De Janeiro                           ;RIO DE JANEIRO                           ;3;1182296;1
+35;SP;ATIVO ;Sao Paulo                                ;SAO PAULO                                ;3;1522986;1
+41;PR;ATIVO ;Parana                                   ;PARANA                                   ;4;434967;1
+42;SC;ATIVO ;Santa Catarina                           ;SANTA CATARINA                           ;4;433317;1
+43;RS;ATIVO ;Rio Grande Do Sul                        ;RIO GRANDE DO SUL                        ;4;496827;1
+50;MS;ATIVO ;Mato Grosso Do Sul                       ;MATO GROSSO DO SUL                       ;5;8096051;1
+51;MT;ATIVO ;Mato Grosso                              ;MATO GROSSO                              ;5;3538167;1
+52;GO;ATIVO ;Goias                                    ;GOIAS                                    ;5;739492;1
+53;DF;ATIVO ;Distrito Federal                         ;DISTRITO FEDERAL                         ;5;5801937;1
+0;IG;IGNOR ;Ignorado/exterior                        ;IGNORADO/EXTERIOR                        ;0;0;8
+20;FN;EXTINT;Territorio Federal de Fernando de Noronha;TERRITORIO FEDERAL DE FERNANDO DE NORONHA;0;0;6

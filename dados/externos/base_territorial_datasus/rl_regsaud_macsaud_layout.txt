@@ -1,0 +1,3 @@
+Coluna;Tamanho;Inicio;Fim;Tipo
+CO_REGSAUD;5;1;5;CHAR
+CO_MACSAUD;4;6;9;CHAR
