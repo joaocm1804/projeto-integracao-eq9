@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: dados_brutos_sinan
+    schema: raw
+    tables:
+      - name: chikbr23
+      - name: chikbr24
+      - name: chikbr25

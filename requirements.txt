@@ -1,0 +1,7 @@
+pandas
+matplotlib
+jupyter
+sqlalchemy>=2.0
+psycopg2-binary
+dbt-postgres~=1.9
+python-dotenv
