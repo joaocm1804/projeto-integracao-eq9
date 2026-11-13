@@ -11,8 +11,7 @@ dados/
 ├── sinan_chikungunya/            ← FONTES PRINCIPAIS: as 3 bases a integrar (2023, 2024, 2025)
 │   ├── CHIKBR23.csv.zip
 │   ├── CHIKBR24.csv.zip
-│   ├── CHIKBR25.csv.zip
-│   └── dic_dados_chikungunya.pdf
+│   └── CHIKBR25.csv.zip
 └── externos/                     ← FONTES DE ENRIQUECIMENTO das dimensões (ver externos/README.md)
     ├── base_territorial_datasus/
     ├── populacao_ibge/
@@ -29,14 +28,15 @@ São as notificações de **Febre de Chikungunya** do SINAN (Sistema de Informa�
 | `CHIKBR23.csv.zip` | Notificações com início de sintomas no **ano epidemiológico de 2023** (01/01/2023 a 30/12/2023) | 266.442 | 74 MB | `46d8674f22ef555f6f24a52a75c4e0f4` |
 | `CHIKBR24.csv.zip` | Notificações do **ano epidemiológico de 2024** (31/12/2023 a 04/01/2025) | 426.214 | 120 MB | `19b805c4ebd28f6c9b0437aa11f3c9b0` |
 | `CHIKBR25.csv.zip` | Notificações do **ano epidemiológico de 2025** (29/12/2024 a 03/01/2026) | 253.753 | 70 MB | `6d290c223719b97c8e6612317242ea75` |
-| `dic_dados_chikungunya.pdf` | Dicionário de dados oficial (Sinan Online), com os 121 campos: nome, tipo, categorias e regras de preenchimento | n/a | 0,5 MB | `1b24b5c98b15a47fa514b3b98c95eff4` |
+
+O **dicionário de dados oficial** (Sinan Online, 121 campos: nome, tipo, categorias e regras de preenchimento) fica em [`../docs/dic_dados_chikungunya.pdf`](../docs/dic_dados_chikungunya.pdf) (MD5 `1b24b5c98b15a47fa514b3b98c95eff4`).
 
 - **Origem:** <https://dadosabertos.saude.gov.br/dataset/arboviroses-febre-de-chikungunya>
 - **Download direto:** `https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SINAN/Chikungunya/csv/CHIKBR{23,24,25}.csv.zip`
 
 ### Por que zips e não CSVs?
 
-O `CHIKBR24.csv` tem 120 MB e passa do limite de 100 MB por arquivo do GitHub. Os zips são os **arquivos oficiais do OpenDataSUS**, sem nenhuma alteração, e o MD5 do CSV dentro deles bate com a tabela acima. Os CSVs descompactados ficam fora do git (`.gitignore`). Para obtê-los localmente:
+O `CHIKBR24.csv` tem 120 MB e passa do limite de 100 MB por arquivo do GitHub. Os zips são os **arquivos oficiais do OpenDataSUS**, sem nenhuma alteração, e o MD5 do CSV dentro deles bate com a tabela acima. Os CSVs descompactados ficam fora do git (`.gitignore`). O pandas lê o zip direto (`pd.read_csv('CHIKBR23.csv.zip')`), então descompactar é opcional. Para obtê-los localmente:
 
 ```bash
 cd dados/sinan_chikungunya && unzip -o 'CHIKBR*.csv.zip'
