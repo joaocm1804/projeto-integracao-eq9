@@ -1,0 +1,3 @@
+Coluna;Tamanho;Inicio;Fim;Tipo
+CO_MUNICIP;6;1;6;CHAR
+CO_REGSAUD;5;7;11;CHAR
