@@ -1,5 +1,9 @@
 # Bases brutas do SINAN (grandes demais para o GitHub, limite 100 MB/arquivo)
+# O repositório versiona os zips oficiais em dados/sinan_chikungunya/ (ver dados/README.md)
 *.csv
+
+# Exceção: as fontes externas são pequenas (14 MB no total) e precisam ser versionadas
+!dados/externos/**/*.csv
 
 # Sistema / Python
 .DS_Store
