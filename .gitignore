@@ -12,11 +12,7 @@ __pycache__/
 .venv/
 .env
 
-# dbt (arquivos gerados ao rodar)
-dbt_chikungunya/target/
-dbt_chikungunya/dbt_packages/
-dbt_chikungunya/logs/
-dbt_chikungunya/.user.yml
+# Logs
 logs/
 
 # Backups do banco (pg_dump)
