@@ -54,7 +54,6 @@ Os dois pipelines aplicam as mesmas regras de limpeza e geram o mesmo esquema es
 │       ├── 01_sazonalidade_semanas_epi.sql
 │       ├── 02_incidencia_geografica_uf_regiao.sql
 │       └── 03_perfil_gravidade_criterio.sql
-├── dbt_chikungunya/         # Estrutura inicial de um projeto dbt (não usada pelo pipeline ELT atual)
 ├── .env.example             # Modelo de conexão para quem roda localmente
 ├── requirements.txt         # Bibliotecas Python do projeto
 └── README.md
@@ -120,12 +119,12 @@ Para rodar os dois pipelines no mesmo banco (necessário para a auditoria), use 
 
 ### Localmente
 
-Pré-requisitos: **Python 3.10 a 3.12** e **PostgreSQL** instalado e rodando.
+Pré-requisitos: **Python 3.10 ou superior** e **PostgreSQL** instalado e rodando.
 
 1. Copie o `.env.example` para `.env` e preencha com o usuário e a senha do seu PostgreSQL.
 2. Crie um ambiente virtual e instale as bibliotecas:
    ```bash
-   python3.12 -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
    ```
