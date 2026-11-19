@@ -22,6 +22,7 @@ Os dois pipelines aplicam as mesmas regras de limpeza e geram o mesmo esquema es
 
 | Documento | Conteúdo |
 |---|---|
+| [`docs/Relatorio_Projeto_Integracao_Eq9.pdf`](docs/Relatorio_Projeto_Integracao_Eq9.pdf) | Relatório final do projeto, em PDF |
 | [`docs/relatorio.md`](docs/relatorio.md) | Relatório do projeto: justificativa, integração, transformações, comparação ETL × ELT e análises |
 | [`docs/modelagem_e_dicionario.md`](docs/modelagem_e_dicionario.md) | Esquema estrela, regras de transformação e dicionário de dados do DW |
 | [`docs/perfilamento_comparativo.md`](docs/perfilamento_comparativo.md) | Perfilamento das três bases e das fontes externas, com as diferenças entre os anos |
@@ -102,7 +103,7 @@ descobre onde está rodando e prepara o ambiente.
 |---|---|---|
 | Repositório e dados | Clonados automaticamente em `/content` | Pasta do projeto |
 | PostgreSQL | Instalado na sessão, com usuário `dw_user` e banco `chikungunya_dw` (apagado quando a sessão fecha) | O que está instalado na sua máquina |
-| Conexão | Definida no próprio notebook | ETL: arquivo `.env`. ELT: `dw_user`/`dw_pass` fixos no notebook |
+| Conexão | Definida no próprio notebook | Arquivo `.env` na raiz do projeto |
 
 ### Ordem de execução
 
@@ -129,8 +130,7 @@ Pré-requisitos: **Python 3.10 ou superior** e **PostgreSQL** instalado e rodand
    pip install -r requirements.txt
    ```
 3. Rode o `notebooks/01_configuracao_banco.ipynb` uma vez para criar o banco `chikungunya_dw`.
-4. O notebook ELT conecta com o usuário `dw_user` e a senha `dw_pass`. Crie esse usuário no seu PostgreSQL ou ajuste a variável `DB_URI` na primeira célula.
-5. Abra os notebooks a partir da raiz do projeto (o ELT usa caminhos relativos, como `dados/` e `sql/`):
+4. Abra o Jupyter. Os notebooks de ETL e ELT acham a raiz do projeto sozinhos, então pode abrir de qualquer pasta do repositório:
    ```bash
    jupyter notebook
    ```
